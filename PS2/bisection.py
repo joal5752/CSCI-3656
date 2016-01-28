@@ -2,6 +2,8 @@
 #Numerical Computation CSCI 3656
 #Bisection, Secant, and Newton root finder methods
 
+#adapted from http://thelivingpearl.com/code-for-bisection-method-in-python/
+
 import sys
 import math
 
