@@ -1,3 +1,7 @@
+#Problem Set 2 
+#Numerical Computation CSCI 3656
+#Bisection, Secant, and Newton root finder methods
+
 import sys
 import math
 
